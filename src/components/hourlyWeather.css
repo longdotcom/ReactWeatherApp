@@ -1,0 +1,110 @@
+
+.container3{
+  border: 5px solid white;
+  background-color: #8F8F8E;
+  color: white;
+  font-weight: bold;
+  border-radius: 20px;
+
+}
+
+
+.hourlyTable, tr{
+   border-top: 1px solid lightgrey;
+   border-bottom: 1px solid lightgrey;
+   border-collapse: collapse;
+
+
+}
+
+.hourlyTable td {
+    padding-top:10px;
+}
+
+#hourlyTime1{
+  padding-left: 13px;
+  text-align: left;
+  border-left: 1px solid lightgrey;
+  background-color: orange;
+
+}
+
+#hourlyTime2{
+  padding-left: 13px;
+  text-align: left;
+  border-left: 1px solid lightgrey;
+  background-color: red;
+
+}
+#hourlyTime3{
+  padding-left: 13px;
+  text-align: left;
+  border-left: 1px solid lightgrey;
+  background-color: orange;
+
+}
+#hourlyTime4{
+  padding-left: 13px;
+  text-align: left;
+  border-left: 1px solid lightgrey;
+  background-color: green;
+
+}
+
+#hourlyTimeTop{
+  border-left: 1px solid lightgrey;
+  padding-left: 13px;
+  border-top-right-radius: 17px;
+  background-color: green;
+}
+
+#hourlyTimeBottom{
+  border-left: 1px solid lightgrey;
+  padding-left: 13px;
+  border-bottom-right-radius: 17px;
+  background-color: green;
+
+}
+
+.hourlyTemp{
+
+  font-size: 30px;
+  padding-left: 8px;
+}
+
+.hourlyIcon{
+  padding-left: 2px;
+  height: 30px;
+  opacity: 0.7;
+  filter: alpha(opacity=80);
+}
+
+.hourlyPrecip{
+  padding-left: 38px;
+  font-size: 14px;
+}
+
+.hourlyPrecip img {
+  height: 12px;
+}
+
+.hourlyHumid{
+  padding-left: 20px;
+  font-size: 14px;
+
+}
+
+.hourlyHumid img {
+  height: 12px;
+}
+
+.hourlyWind{
+  padding-left: 20px;
+  padding-right: 10px;
+  font-size: 14px;
+
+}
+
+.hourlyWind img {
+  height: 12px;
+}

@@ -1,0 +1,66 @@
+
+.container1{
+  border: 5px solid white;
+  border-radius: 20px;
+  background:linear-gradient(#1D7BB0, #176996);
+  color: white;
+  font-weight: bold;
+  padding-left: 0px;
+  text-align: center;
+}
+
+#desc{
+  opacity: 0.8;
+  font-size: 13px;
+}
+
+#feelCity{
+  opacity: 0.8;
+}
+
+#runNow{
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  font-size: 50px;
+  font-style: italic;
+}
+
+#bigWeatherIcon{
+  height:100px;
+  opacity: 0.6;
+  filter: alpha(opacity=80);
+  filter:blur(1px);
+
+
+}
+
+#bigWeatherText{
+
+  font-size: 140px;
+  padding-left: 0px;
+}
+
+#lower {
+  font-size: 20px;
+  padding-left: 25px;
+  padding-top: 15px;
+  width: 95%;
+  padding-bottom: 5px;
+
+}
+
+#lower img {
+padding-top: 10px;
+height:20px;
+
+}
+
+#loc{
+  text-align: left;
+}
+
+#runner{
+  padding-top: 30px;
+  height:45px;
+}

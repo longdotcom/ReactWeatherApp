@@ -1,0 +1,32 @@
+.container2{
+  border: 5px solid white;
+  background-color: #C0C0C0;
+  color: white;
+  font-weight: bold;
+  border-radius: 20px;
+  text-align: center;
+  height: 40px;
+  padding-top: 20px;
+}
+
+.formF {
+  background-image: url('./images/search.png');
+  background-position: 2px;
+  background-size: 14px;
+  background-repeat: no-repeat;
+  border: 1px solid #8F8F8E;
+  border-radius: 4px;
+  width: 70px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 19px;
+  padding-right: 25px;
+  margin-left: 5px;
+}
+
+.buttonF{
+  margin-left: 5px;
+  width:70px;
+  font-weight: bold;
+
+}

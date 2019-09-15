@@ -1,0 +1,14 @@
+body {
+  margin: 0px ;
+  padding: 0px;
+  font-family: sans-serif;
+  width: 414px;
+	height: 736px;
+  display: flex;
+	flex-direction: column;
+	color: #fff;
+	width: 414px;
+	height: 836px;
+	padding-top: 30px;
+	margin: 0 auto;
+}
